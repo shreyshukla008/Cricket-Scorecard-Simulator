@@ -1,5 +1,5 @@
 # Cricket-Scorecard-Simulator
-The provided C++ code appears to be a cricket simulation program where two teams compete, and the user can input various actions for each ball bowled. The program tracks the score, wickets, and other statistics for both batting and bowling teams.
+The provided C++ code is a cricket simulation program where two teams compete, and the user can input various actions for each ball bowled. The program tracks the score, wickets, and other statistics for both batting and bowling teams.
 
 Here's a summary of the key features and components of the code:
 
